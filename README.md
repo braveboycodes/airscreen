@@ -64,7 +64,7 @@ Solution: These warnings can generally be ignored as they do not affect the core
 💡 Tips
 Color Selection: You can switch between colors by tapping on the colored areas at the top of the screen. The colors are: Blue, Green, Red, and Yellow.
 Drawing Accuracy: Ensure your hand is properly detected for accurate drawing. The app uses hand landmarks to determine drawing positions.
-📸 Screenshots
+📸 Screenshots airscreen.png
 
 
 📝 More
@@ -73,13 +73,6 @@ Extensions: You can integrate additional features such as saving drawings or add
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Made with ❤️ by Brave Boy Codes
-
-markdown
-Copy code
-
-### Instructions:
-- **Replace** `path-to-your-screenshot.png` with the actual path to your screenshot or remove the screenshot section if not applicable.
-- **Ensure** you have a `LICENSE` file in your project if you're referencing it.
-
-This file provides clear instructions for running the application, details about required libr
