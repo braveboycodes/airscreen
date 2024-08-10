@@ -1,6 +1,3 @@
-# airscreen
-This is air screen board
-
 # 🖌️ Paint App
 
 Welcome to the **Paint App** created by **Brave Boy Codes**! This application uses OpenCV, NumPy, and MediaPipe to let you draw on a canvas using your webcam. Below is a guide on how to use the code and troubleshoot common issues.
@@ -66,12 +63,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Made with ❤️ by Brave Boy Codes
 
-vbnet
+markdown
 Copy code
 
-**Notes:**
+### Instructions:
+- **Replace** `path-to-your-screenshot.png` with the actual path to your screenshot or remove the screenshot section if not applicable.
+- **Ensure** you have a `LICENSE` file in your project if you're referencing it.
 
-1. **Replace** `path-to-your-screenshot.png` with the actual path to your screenshot if you have one.
-2. **Adjust** the License section according to the actual license used.
-
-This structure provides clear instructions on how to use the code, lists required libraries, and o
+This file provides clear instructions for running the application, details about required libr
